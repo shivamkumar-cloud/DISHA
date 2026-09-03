@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DISHA" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#1E3A8A</item>
+    </style>
+
+    <style name="Theme.DISHA.Starting" parent="Theme.DISHA">
+        <item name="android:windowBackground">#1E3A8A</item>
+    </style>
+
+</resources>
