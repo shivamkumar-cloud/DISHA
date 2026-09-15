@@ -1,40 +1,104 @@
 # DISHA 🧭
 
-**DISHA** is a personalized career and skill guidance Android application designed to help students understand their current skills, identify skill gaps, and find a clear direction toward their desired career.
+**A Personalized Career and Skill Guidance System**
 
-## 🚀 About the Project
+DISHA is an Android-based personalized career and skill guidance application designed to help students understand their current skills, identify skill gaps, choose suitable career directions, and build a structured path toward their career goals.
 
-Many students know the career they want but are unsure about:
+Instead of simply providing generic career suggestions, DISHA follows a personalized career development cycle:
 
-- What skills they currently have
-- What skills they are missing
-- What they should learn next
-- How to build a structured learning path
+**Assess → Understand → Identify Gaps → Recommend → Learn → Progress**
 
-DISHA aims to solve this problem by creating a personalized career direction based on the user's career goal, experience, skills, interests, and learning time.
+The goal is to help users answer an important question:
 
-## ✨ Current Features
+> **“Where am I now, where do I want to go, and what should I learn next?”**
 
-- 🎯 Career goal selection
-- 📊 Skill and experience assessment
-- 💡 Personalized career direction
-- 🛣️ Learning roadmap foundation
-- 📱 Simple and student-friendly Android UI
-- 🔄 Navigation-based user flow
+---
 
-## 🧭 User Flow
+## 🎯 Project Objective
+
+DISHA aims to provide a personalized career guidance system that helps users:
+
+* Select their desired career direction
+* Assess their current experience and skills
+* Identify areas that need improvement
+* Understand their current starting point
+* Receive personalized career guidance
+* Discover recommended skills to learn
+* Build a structured learning roadmap
+* Track their learning progress
+* Continuously improve toward their target career
+
+---
+
+## ✨ Planned Features
+
+### 🎯 Career Direction Selection
+
+Users can select the career direction they want to work toward.
+
+Example career paths include:
+
+* Android Development
+* Web Development
+* Data Science & AI
+* Cybersecurity
+
+---
+
+### 📊 Skill Assessment
+
+DISHA will assess the user's current background through a structured assessment.
+
+The assessment can consider:
+
+* Experience level
+* Programming languages
+* Technical interests
+* Existing skills
+* Available learning time
+
+---
+
+### 🧩 Skill Gap Analysis
+
+DISHA will compare the user's current skill profile with the skills required for their selected career direction.
+
+The system will identify:
+
+* Existing skills
+* Missing skills
+* Skills that need improvement
+* Recommended next skills
+
+---
+
+### 🧭 Personalized Career Direction
+
+Based on the user's assessment, DISHA will generate a personalized career direction.
+
+The result will provide an overview of:
+
+* Selected career
+* Current experience level
+* Current focus area
+* Learning availability
+* Recommended next steps
+
+---
+
+### 🛣️ Personalized Learning Roadmap
+
+DISHA will generate a structured learning roadmap based on the user's career goal and current skill level.
+
+The roadmap will help users understand:
 
 ```text
-Splash Screen
-      ↓
-Onboarding
-      ↓
-Career Selection
-      ↓
-Skill Assessment
-      ↓
-Personalized Direction
-      ↓
-Dashboard
-      ↓
-Learning Roadmap
+What I Know
+     ↓
+What I Need
+     ↓
+What I Should Learn Next
+     ↓
+What I Should Build
+     ↓
+Career Ready
